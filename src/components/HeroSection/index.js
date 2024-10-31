@@ -6,7 +6,7 @@ import {
     HeroContainer,
     HeroBg,
     HeroContent,
-    HeroH1,
+    HeroH1, 
     HeroP,
     HeroBtnWrapper,
     ArrowForward,
