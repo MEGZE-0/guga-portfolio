@@ -4,7 +4,6 @@ import React, { useState } from 'react'
 
 import {
     HeroContainer,
-    HeroBg,
     HeroContent,
     HeroH1, 
     HeroP,
