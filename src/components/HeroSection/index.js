@@ -25,9 +25,7 @@ const HeroSection = () => {
 
     return (
         <HeroContainer id="home">
-            <HeroBg>
-                {/* for the header video or model */}
-            </HeroBg>
+
             <HeroContent>
                 <HeroH1> Experience the guga </HeroH1>
                 <HeroP> 
