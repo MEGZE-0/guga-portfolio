@@ -5,7 +5,6 @@ import React, { useState } from 'react'
 import {
     HeroContainer,
     HeroBg,
-    VideoBg,
     HeroContent,
     HeroH1,
     HeroP,
