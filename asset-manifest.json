@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/2024-prtofolio/static/css/main.d7da34c1.css",
-    "main.js": "/2024-prtofolio/static/js/main.6bfbde92.js",
-    "static/media/svg-2.svg": "/2024-prtofolio/static/media/svg-2.1c5f966ac3980d4176c0feb6ae7efa34.svg",
-    "static/media/svg-1.svg": "/2024-prtofolio/static/media/svg-1.eea8fb509ee8d50c6af1ded72bdefe22.svg",
-    "static/media/svg-3.svg": "/2024-prtofolio/static/media/svg-3.0b88cfb5800c2ef598d3d5917089fed7.svg",
-    "index.html": "/2024-prtofolio/index.html",
-    "main.d7da34c1.css.map": "/2024-prtofolio/static/css/main.d7da34c1.css.map",
-    "main.6bfbde92.js.map": "/2024-prtofolio/static/js/main.6bfbde92.js.map"
+    "main.css": "/guga-portfolio/static/css/main.d7da34c1.css",
+    "main.js": "/guga-portfolio/static/js/main.3a9beb72.js",
+    "static/media/svg-2.svg": "/guga-portfolio/static/media/svg-2.1c5f966ac3980d4176c0feb6ae7efa34.svg",
+    "static/media/svg-1.svg": "/guga-portfolio/static/media/svg-1.eea8fb509ee8d50c6af1ded72bdefe22.svg",
+    "static/media/svg-3.svg": "/guga-portfolio/static/media/svg-3.0b88cfb5800c2ef598d3d5917089fed7.svg",
+    "index.html": "/guga-portfolio/index.html",
+    "main.d7da34c1.css.map": "/guga-portfolio/static/css/main.d7da34c1.css.map",
+    "main.3a9beb72.js.map": "/guga-portfolio/static/js/main.3a9beb72.js.map"
   },
   "entrypoints": [
     "static/css/main.d7da34c1.css",
-    "static/js/main.6bfbde92.js"
+    "static/js/main.3a9beb72.js"
   ]
 }
