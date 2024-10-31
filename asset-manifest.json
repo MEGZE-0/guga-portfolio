@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/guga-portfolio/static/css/main.d7da34c1.css",
-    "main.js": "/guga-portfolio/static/js/main.96df1808.js",
-    "static/media/svg-2.svg": "/guga-portfolio/static/media/svg-2.1c5f966ac3980d4176c0feb6ae7efa34.svg",
-    "static/media/svg-1.svg": "/guga-portfolio/static/media/svg-1.eea8fb509ee8d50c6af1ded72bdefe22.svg",
-    "static/media/svg-3.svg": "/guga-portfolio/static/media/svg-3.0b88cfb5800c2ef598d3d5917089fed7.svg",
-    "index.html": "/guga-portfolio/index.html",
-    "main.d7da34c1.css.map": "/guga-portfolio/static/css/main.d7da34c1.css.map",
-    "main.96df1808.js.map": "/guga-portfolio/static/js/main.96df1808.js.map"
+    "main.css": "https://megze-0.github.io/guga-portfolio/static/css/main.d7da34c1.css",
+    "main.js": "https://megze-0.github.io/guga-portfolio/static/js/main.99e94727.js",
+    "static/media/svg-2.svg": "https://megze-0.github.io/guga-portfolio/static/media/svg-2.1c5f966ac3980d4176c0feb6ae7efa34.svg",
+    "static/media/svg-1.svg": "https://megze-0.github.io/guga-portfolio/static/media/svg-1.eea8fb509ee8d50c6af1ded72bdefe22.svg",
+    "static/media/svg-3.svg": "https://megze-0.github.io/guga-portfolio/static/media/svg-3.0b88cfb5800c2ef598d3d5917089fed7.svg",
+    "index.html": "https://megze-0.github.io/guga-portfolio/index.html",
+    "main.d7da34c1.css.map": "https://megze-0.github.io/guga-portfolio/static/css/main.d7da34c1.css.map",
+    "main.99e94727.js.map": "https://megze-0.github.io/guga-portfolio/static/js/main.99e94727.js.map"
   },
   "entrypoints": [
     "static/css/main.d7da34c1.css",
-    "static/js/main.96df1808.js"
+    "static/js/main.99e94727.js"
   ]
 }
